@@ -31,11 +31,6 @@
             </tr>
             <tr class="floating-row">
                 <td>
-                    <button class="floating-button">Edit existing airplane</button>
-                </td>
-            </tr>
-            <tr class="floating-row">
-                <td>
                     <button form="logoutForm" class="floating-button-danger">Log Out</button>
                 </td>
             </tr>
